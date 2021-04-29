@@ -1,0 +1,196 @@
+body{
+    background: linear-gradient(to right, #4DD0E1, #80DEEA, #B2EBF2);
+
+}
+.btn{
+    margin-left: 5px;
+    border: #B2DFDB 1px solid;
+    border-radius: 15px;
+    background: linear-gradient(to right,#00796B, #00897B, #26A69A, #80CBC4);
+}
+.dropdown-menu{
+    border: #B2DFDB 1px solid;
+    border-radius: 15px;
+    background: linear-gradient(to left,#00796B, #00897B, #26A69A, #80CBC4);
+}  
+.row{
+    margin-top: 110px;
+    margin-left: 400px;
+    margin-right: 90px ;
+    height: 300px;
+    width: 520px;
+    overflow: initial;
+    background-color: #0D47A1;
+ }
+ .titulos{
+    color: blue;
+    text-align: center; 
+    font-size: 50px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+ .ball-1 {
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color: #7AC7C4;
+    color: white;
+    text-align: center;    
+    line-height: 120px;
+    width: 200px; 
+    height: 200px;
+    border: black 5px dashed;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+
+ }
+
+ .ball-2 {
+    margin-top: 100px;
+    margin-left: 500px;
+    background: linear-gradient(to left,#7B1FA2, #BA68C8);
+    color: black;
+    text-align: center;
+    line-height: 120px;
+    width: 200px; 
+    height: 200px;
+    border: black 5px dashed;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+
+ }
+ 
+ .ball-3 {
+    margin-top: 100px;
+    margin-left: 500px;
+    background: linear-gradient(to left,#C2185B, #EC407A);
+    color: black;
+    text-align: center;
+    line-height: 120px;
+    width: 200px; 
+    height: 200px;
+    border: black 5px dashed;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+
+ }
+ 
+
+ .ball-4 {
+    margin-top: 100px;
+    margin-left: 500px;
+    background: linear-gradient(to left,#0D47A1, #42A5F5);
+    color: black;
+    text-align: center;
+    line-height: 120px;
+    width: 200px; 
+    height: 200px;
+    border: black 5px dashed;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+
+ }
+ 
+
+ .ball-5 {
+    margin-top: 100px;
+    margin-left: 500px;
+    background: linear-gradient(to left,#00BCD4, #80DEEA);
+    color: black;
+    text-align: center;
+    line-height: 120px;
+    width: 200px; 
+    height: 200px;
+    border: black 5px dashed;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+
+ }
+ 
+ 
+ .ball-6 {
+    margin-top: 100px;
+    margin-left: 500px;
+    background: linear-gradient(to left,#F57C00, #FFA726);
+    color: black;
+    text-align: center;
+    line-height: 120px;
+    width: 200px; 
+    height: 200px;
+    border: black 5px dashed;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+
+ }
+
+ .ball-7 {
+    margin-top: 100px;
+    margin-left: 500px;
+    background: linear-gradient(to left,#00E676, #FFF176);
+    color: black;
+    text-align: center;
+    line-height: 120px;
+    width: 200px; 
+    height: 200px;
+    border: black 5px dashed;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+
+ }
+ 
+
+ .ball-8 {
+    margin-top: 100px;
+    margin-left: 500px;
+    background: linear-gradient(to left,#01579B, #26C6DA);
+    color: black;
+    text-align: center;
+    line-height: 120px;
+    width: 200px; 
+    height: 200px;
+    border: black 5px dashed;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+
+ }
+ 
+
+ .ball-9 {
+    margin-top: 100px;
+    margin-left: 500px;
+    background: linear-gradient(to left,#651FFF, #9575CD);
+    color: black;
+    text-align: center;
+    line-height: 120px;
+    width: 200px; 
+    height: 200px;
+    border: black 5px dashed;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+
+ }
+ 
+
+ .ball-10 {
+    margin-top: 100px;
+    margin-left: 500px;
+    background: linear-gradient(to left,#000000 , #90A4AE);
+    color: white;
+    text-align: center;
+    line-height: 120px;
+    width: 200px; 
+    height: 200px;
+    border: black 5px dashed;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+ }
+ 
